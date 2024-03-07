@@ -1,9 +1,9 @@
-# File: CS112_A1_T2_2_20230448
+# File: CS112_A1_T2
 # Purpose: each of the 2 players will choose a number 1==>9 and the chosen number will be canceled.
 #          If a player has picked three numbers that add up to 15, that player wins the game and if
 #          none of them wins the game will draw.
 # Author: Noura Muhammad Mahmoud Arafa
-# ID: 20230448
+
 
 #Setting The Variables
 numbers_list=[1,2,3,4,5,6,7,8,9]
